@@ -1,0 +1,21 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "python.formatting.provider": "black",
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": [
+        "a",
+        "b",
+        "br",
+        "div",
+        "li",
+        "nobr",
+        "ol",
+        "p",
+        "span",
+        "sup",
+        "ul"
+      ]
+    }
+  }
+}
