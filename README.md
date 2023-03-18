@@ -3,7 +3,7 @@
 <!-- <div style="color:#F67280"> -->
 <div style="color:#FA2A70">
     <ul>
-        <li>Linear Regression</li>
+        <li style="color:aquamarine">Linear Regression</li>
         <li>Logistic Regression</li>
         <li style="color:aquamarine">Decision Tree Algorithm</li>
         <li style="color:aquamarine">Random Forest Algorithm</li>
