@@ -9,7 +9,7 @@
         <li style="color:aquamarine">Random Forest Algorithm</li>
         <li style="color:aquamarine">SVM algorithm</li>
         <li style="color:aquamarine">Naive Bayes algorithm</li>
-        <li>KNN algorithm</li>
+        <li style="color:aquamarine">KNN algorithm</li>
         <li>K-Means</li>
         <li>Dimensionality Reduction Algorithms</li>
         <li>Gradient Boosting Algorithm and AdaBoosting Algorithm</li>
