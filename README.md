@@ -8,7 +8,7 @@
         <li style="color:aquamarine">Decision Tree Algorithm</li>
         <li style="color:aquamarine">Random Forest Algorithm</li>
         <li style="color:aquamarine">SVM algorithm</li>
-        <li>Naive Bayes algorithm</li>
+        <li style="color:aquamarine">Naive Bayes algorithm</li>
         <li>KNN algorithm</li>
         <li>K-Means</li>
         <li>Dimensionality Reduction Algorithms</li>
