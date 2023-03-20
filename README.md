@@ -12,6 +12,6 @@
         <li style="color:aquamarine">KNN algorithm</li>
         <li style="color:aquamarine">K-means Clustering</li>
         <li style="color:aquamarine">Dimensionality Reduction Algorithms</li>
-        <li>Gradient Boosting Algorithm and AdaBoosting Algorithm</li>
+        <li style="color:aquamarine">Boosting Algorithms</li>
     </ul>
 </div>
